@@ -104,35 +104,6 @@ Last but not least : we are nice and we have fun! (you'll find out by yourself �
         <contract_type>permanent</contract_type>
         <contract_time>full_time</contract_time>
     </job>
-    <job>
-        <title>Full Stack Engineer - Remote from EMEA</title>
-        <id>4192882101</id>
-        <![CDATA[<description>
-​
-        </description>]]>
-        <url>https://boards.eu.greenhouse.io/wakam/jobs/4192882101</url>
-        <location>Paris</location>
-        <country>France</country>
-        <remote>1</remote>
-        <company>Wakam</company>
-        <category>Engineering Jobs</category>
-        <contract_type>permanent</contract_type>
-        <contract_time>full_time</contract_time>
-    </job>
-    <job>
-        <title>Full Stack Engineer - Remote from EMEA</title>
-        <id>4192882101</id>
-        <![CDATA[<description>
-​
-        </description>]]>
-        <url>https://boards.eu.greenhouse.io/wakam/jobs/4192882101</url>
-        <location>Paris</location>
-        <country>France</country>
-        <remote>1</remote>
-        <company>Wakam</company>
-        <category>Engineering Jobs</category>
-        <contract_type>permanent</contract_type>
-        <contract_time>full_time</contract_time>
-    </job>
+
 </jobs>
 </rss>

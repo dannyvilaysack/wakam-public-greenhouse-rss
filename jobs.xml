@@ -307,7 +307,7 @@ Master's degree in Engineering with 2-5 year's experience in data management, da
 Ability to manage multiple projects at the same time
 Good communication skills both in English and French
 You are an expert in SQL for analytics
-Our tech stack includes Azure, Snowflake, DBT, Databricks, PowerBI and you are familiar with strong experience in at least 2 of these technologies
+Our tech  includes Azure, Snowflake, DBT, Databricks, PowerBI and you are familiar with strong experience in at least 2 of these technologies
 Proficiency of Python is a plus
 Insurance knowledge is a plus
 Recruitment process
@@ -445,66 +445,70 @@ Last but not least : we are nice and we have fun! (you'll find out by yourself �
         <contract_time>full_time</contract_time>
     </job>
     <job>
-        <title>Senior Full Stack Developer - Remote from EMEA</title>
-        <id>4107379101</id>
+        <title>Senior Software Engineer - Crafter & .NET - Hybrid or Remote from EMEA</title>
+        <id>4222897101</id>
         <description>
 ​Wakam is a European B2B2C insurer that designs white label general insurance (GI) products for its partners (e-retailers, brokers and fintechs/insurtechs, ...). Our insurance solutions are embedded within the products or services offered to the end-customer.
- 
+
 Wakam operate in 32 countries across Europe with most of the revenues generated outside of France. Most of our products are delivered through API and hosts white label insurance solutions via our Play&Plug platform.
- 
-To meet these challenges, Wakam has built a technological platform called Play&Plug divided into several digital products (distributor portal, reinsurer portal, portal for internal businesses, API base, Policy Admin System on the Blockchain, Pricing Engine, etc.).
- 
+
+To meet these challenges, Wakam has built a technological platform called Play&Plug divided into several digital products (distributor portal, reinsurer portal, portal for internal businesses, API base, Policy Admin System on the Blockchain, Pricing Engine, etc.). Our team is in charge of the API Platform who allows our partners to distribute Wakam’s insurance products via multiple acquisition channels (websites, mobile applications, marketplaces, agregators…). Available APIs allows our partners to issue quotes to their prospects depending on their risk profile and then to follow the lifecycle of the contract after the subscription is recorded. Currently we develop a new API to do AML checks in order to comply with the regulation.
+
+Wakam’s differentiation comes from its velocity to create new bespoke insurance products as well as quickly change pricing model of existing products to face new market conditions or risk profile of the portfolio. Thus one of the key mission is to speed up the time actuaries take to create and modify quote APIs without any help from IT.
+
+The platform manages a 50 Million requests trafic each month. It is powered by a highly distributed and resilient architecture hosted on Azure. It is essential to track and commit SLA/SLO and at the same time to remain vigilant about our infrastructure budget.
+
+ 
+
 Our culture? Free to impact.
- 
+
 A culture where everything is possible, where all ideas are taken into consideration, where everyone has an impact! Hungry for freedom? Thirsty for autonomy? If you are adventurous, then the Wakam adventure might be made for you!
- 
- 
- 
-✎ The Mission
-To support the company's strong growth, Wakam is looking for a Senior Full-Stack Developer on a permanent contract, who is committed to technical excellence (Craftmanship) and appreciates working in an Agile context.
- 
-The Senior Full-Stack Developer participates in the framing and development of functional and technical developments of our digital solutions. As a priority, he will be responsible for working around the digitization of our business processes (“Bespoke”) which allow us to build new products for our partners. One of the main success criteria will be close collaboration with business experts (Wakamees) to provide them with the most suitable tools. This will require making strong choices between tailor-made design and integration with already existing tools (CRM, project management platform, etc.)
- 
-Your main mission will be to :
- 
-Participate in the definition of the roadmap in conjunction with the Product Manager
-Support the development of User Stories (Front & Back)
-Support the functional and technical test phases in conjunction with the business Product Owners
- 
-Contribute to the reliability of the UX/UI design, ergonomics, robustness, security and performance of the platform
- 
-Participate in Platform Sprints and associated rituals
- 
-Participate in forward-looking development work and technology watch hand in hand with the Architecture team
- 
-Report the progress and delivery deadlines of his work to the Product Owner
- 
-Support the team of developers (pairing, code review, etc.)
- 
-Ensure the implementation and respect of "best practices"
- 
- 
- 
+
+ 
+
+✎ The Mission 
+The team is looking for a new companion to help it achieve its objectives.
+
+Your day-to-day role will be to participate, with the team, in the entire product development process, from understanding needs to obtaining feedback from partners and domain experts.
+
+Given the sensitive scope of your work, you'll be focusing on the following aspects of delivery performance:
+
+Business impact
+Ability of application design to evolve
+Delivering value to our users as regularly as possible
+Limiting defects
+Ability to mitigate problems
+In doing so, you will collaborate with the rest of the team to find the most appropriate methodologies and organization modes.
+
+By joining Wakam, you'll also be joining a community of practice for software engineers. As part of our values and principles of sharing and continuous improvement, passing on and exchanging experiences is part of our routine.
+
+ 
+
 ✯ Profile required
-You have at least 7 years of successful experience in the development of IT projects and are not afraid to discover new languages :
- 
-Some knowledge in Domain Discovery and Domain Modeling
-You have demonstrable skills in the following technologies: JavaScript/TypeScript, ReactJS, NodeJS, C#, Terraform, Microsoft Azure
-You are particularly familiar with the following principles: Agile / SCRUM methods, Clean Code, Hexagonal Architecture, Test Driven Development, REST API, CI/CD
-You are passionate about topics such as: Infrastructure as Code, Software Architecture, Change Management, Accelerate (Building and Scaling High Performing Technology Organizations)
-You enjoy sharing your knowledge with your peers and mentoring more junior developers
- 
- 
+- You have at least 8 years of experience in information systems design.
+
+- Knowledge of the .NET ecosystem is a plus. That said, your ability to write code that is understandable and maintainable over time will be much more important to us.
+
+- Have you ever worked with cloud-provisioned environments? Great! Azure ? Perfect. Building, deploying and operating systems agnostic to their environment is like second nature to you? Even better.
+
+- For you, flexibility and simplicity prevail on a daily basis.
+
+- By working in a context that encourages collaboration as much as possible, you're comfortable asking questions and passing on your ideas. If, by chance, the activity of optimizing a value chain is as entertaining for you as a board game, we'll appreciate it.
+
+Wakam aspires to be international and open to remote working. As software engineers, we also believe that effective communication is a key factor in the success of our organizations. Speaking English and French (professional level) is a prerequisite. We also encourage collective intelligence and collaborative decision-making. Being available at similar times to the rest of the team is also a prerequisite. The maximum time difference must be 2 hours.
+
+ 
+
 Your working mindset
- 
+
 You are passionate about your job and want to share your experience
 You are constantly looking for improvement through a continuous learning attitude
 You are appreciated for your commitment
 Highly developed analytical and problem-solving skills,
 You are dynamic, reactive and you perform in demanding and fast-paced environments
 Ability to work within a team collaboratively,
- 
- 
+ 
+
 Recruitment steps :
 Fit call with our Lead Recruiter
 Technical interviews with 2 or 3 team members (hiring manager & developers)
@@ -543,7 +547,7 @@ Every last Friday of the month, it's Free.day at Wakam, a day without meetings t
 Full-remote is a reality at Wakam (there is even one Wakamee who works from his sailing boat ⛵)
 Last but not least : we are nice and we have fun! (you'll find out by yourself 😉)
         </description>
-        <url>https://boards.eu.greenhouse.io/wakam/jobs/4107379101</url>
+        <url>https://boards.eu.greenhouse.io/wakam/jobs/4222897101</url>
         <location>Paris</location>
         <country>France</country>
         <remote>1</remote>

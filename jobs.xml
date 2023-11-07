@@ -105,6 +105,92 @@ Last but not least : we are nice and we have fun! (you'll find out by yourself �
         <contract_time>full_time</contract_time>
     </job>
     <job>
+        <title>Senior Analytics Engineer - Hybrid or Full Remote from EMEA</title>
+        <id>4237877101</id>
+        <description>
+       Wakam is a European B2B2C insurer that designs white label insurance products for its partners (e-retailers, brokers and fintechs/insurtechs, etc.).
+
+Our insurance products have the particularity of being embedded in the products or services offered to the end-customer (for example, you take a self-service e-scooter, you are automatically insured). Wakam operates in 32 European countries with the majority of its turnover generated outside France.
+
+The company provides most of its products through API, and hosts white label insurance solutions via its Play&Plug technology platform. At Wakam we believe in the formula “for-profit & for good”. Since March 2021, we are a Mission-driven company, which means that our mission statement ‘Enabling transparent and impactful insurance’ is written in our bylaws. And we go further: by defining 9 concrete commitments to illustrate this mission, such as writing our insurance contracts in plain language (no more confusing terms and conditions). We also create insurance products at cost for associations.
+
+Our culture? Free to impact.
+
+A culture where everything is possible, where all ideas are taken into consideration, where everyone has an impact on the transformation of insurance! Hungry for freedom? Thirsty for autonomy? If you are adventurous and like challenges, then the Wakam adventure might be made for you!
+
+To support these products and accelerate our growth, Wakam has built a set of Digital Products and a Data Platform for integrating and storing data from distribution partners (insurance contracts, claims and payments), giving insights to our partners and supporting the various internal data use cases (Business Intelligence, Data Analytics, Data Science and Actuarial).
+
+✎ The Mission
+To support the company's strong growth, Wakam is looking for a Senior Analytics Engineer who is committed to technical excellence, with an approach to data based on Software Development practices, and enjoys working in an Agile context with a Product approach.
+
+As part of the Analytics & Data Automation team in the Data Office, the Analytics Engineer participates in the framing and development of functional and technical evolutions of BI and Data uses.
+
+We work in an Azure, Snowflake, DBT , Power BI and Databricks technical ecosystem.
+
+Your main tasks will be to:
+
+Design, specify, develop and document ETL/ELT BI processes, data preparation, business intelligence modeling, KPI calculations and reporting using the following technologies (non-exhaustive list): SQL (Snowflake, DBT, Databricks), Python, Power BI in a DevOps approach (build and run)
+Supporting users around DataViz and Self Service BI topics: Participate in workshops to help define objectives, KPIs and visuals to meet their usage(s), train them and support them.
+Working in Agile methodology, in collaboration with Product Owners, detailing US into tasks, estimating complexity and implementation effort, and supporting acceptance.
+Guarantee the quality and performance of these developments by implementing automatic testing and continuous deployment strategies. Ensure that best practices are implemented and respected.
+Propose solutions to continuously improve BI usage.
+Participate in Proof of Concept projects as part of R&D activities.
+Technology watch and knowledge sharing with peers.
+✯ Profile required
+You have at least 5/6 years' experience in a similar position, you are very comfortable with business intelligence modeling and SQL (DBT is a plus), and you have already successfully led BI projects.
+In addition to your development skills, you have qualified experience in understanding users' functional requirements. You like to understand the work of the business and its BI uses. You'll be able to identify their needs, train and support them through dedicated workshops.
+You are familiar with the practices and concepts associated with Software Development (Git, Clean Code, Auto Test, REST API, etc.).
+You have knowledge of DevOps (CI/CD, Docker, Infra as Code, Terraform).
+You are a creative and innovative thinker, and take great care to ensure the quality and performance of your developments.
+You are proficient in French and English in a professional context (read, written, spoken)
+Expected qualities:
+
+You're passionate about your job and want to share your experience with others
+You are constantly seeking to improve through a continuous learning attitude
+Recruitment process
+
+Interview with Talent team
+Technical interview with team members from Data squad
+Manager interview
+Meeting with the VP Data
+Culture fit exchange with the Head of Talent
+​
+​
+Positive energy, agility, and team spirit are essential to support Wakam in its hyper-growth!
+​
+You have the Wakam mindset? Join us!
+​
+More about us
+Our culture? Free to impact. A culture where everything is possible, where all ideas are taken into consideration, where everyone has an impact on the transformation of insurance! Hungry for freedom? Thirsty for autonomy? If you are adventurous and like challenges, then the Wakam adventure might be made for you!
+​
+Discover -on our website- who we really are with the 11 cultural markers that so well describe us!
+​
+What we are looking for
+Mindset compatibility with our ‘Free to Impact’ culture:
+​
+Think big
+Biased for action
+Curious and eager to learn
+Can say no and find solutions
+Aims for the moon (but please don’t stick on the moon)
+And above all: have fun working together 🤜🤛 !
+Good to know
+Wakam is not based on a hierarchy but on a methodology where everyone finds his role and knows his objectives.
+With a flat hierarchical system and a highly collaborative operating model, Wakam is an extremely agile and transparent company.
+Every last Friday of the month, it's Free.day at Wakam, a day without meetings to take a step aside and dedicate ourselves to skills sponsorship or other activities (because we are curious, I remind you).
+Full-remote is a reality at Wakam (there is even one Wakamee who works from his sailing boat ⛵)
+Last but not least : we are nice and we have fun! (you'll find out by yourself 😉)
+        </description>
+        <url>https://boards.eu.greenhouse.io/wakam/jobs/4237877101</url>
+        <location>Paris</location>
+        <country>France</country>
+        <remote>1</remote>
+        <company>Wakam</company>
+        <category>Engineering Jobs</category>
+        <contract_type>permanent</contract_type>
+        <contract_time>full_time</contract_time>
+    </job>
+    <job>
         <title>Underwriting Manager of Motor & Mobility - Germany</title>
         <id>4115174101</id>
         <description>
@@ -197,55 +283,65 @@ Last but not least : we are nice and we have fun! (you'll find out by yourself �
         <contract_time>full_time</contract_time>
     </job>
     <job>
-        <title>Analyste financier Cash & ALM / Financial Analyst - Hybrid or Remote from EMEA</title>
-        <id>4205370101</id>
+        <title>Head of Operations (SMF24) - Hybrid in the UK</title>
+        <id>4174356101</id>
         <description>
-Wakam assure la conception de produits d'assurances sur-mesure qui sont ensuite distribués par des Partenaires (traditionnels du monde de l'assurance ou non spécialistes) sur un modèle B2B2C en marque blanche.
- 
-Pour accompagner notre forte croissance, nous sommes à la recherche d’un/une Senior Capital Management Analyst en CDI pour renforcer notre Squad Capital Management & Alternative Risk Transfer. Le positionnement innovant de Wakam, et en particulier son modèle « Capital-light », placent le Capital Management comme volet clé de notre stratégie.
- 
-En effet, la squad Capital Management & Alternative Risk Transfer a la charge de s’assurer de la capitalisation adéquate de Wakam au regard de sa stratégie et de son profil de risque, mais surtout de garantir la pérennité de cette adéquation dans notre contexte de forte croissance.
- 
-Le Capital Management adopte en conséquence une approche proactive, centrée sur l’étude d’opportunités capitalistiques et le lancement de projets d’optimisation mais aussi sur la conduite de projets stratégiques impactant le capital de Wakam.
- 
- 
- 
-✎ Mission
-Rattaché(e) au Head of FP&A, vous interviendrez sur :
+Wakam is a European B2B2C insurer that designs white label general insurance (GI) products for its partners (e-retailers, brokers and fintechs/insurtechs, ...). Our insurance solutions are embedded within the products or services offered to the end- customer.
 
-Production des reportings mensuels, trimestriels et annuels, à destination des organes de gouvernance de la société (conseil d’administration, comités techniques et non techniques, comité de pilotage actionnaires
-Elaboration du budget, des forecast et du plan pluri-annuel
-Administration du comité ALM 
-Optimisation d’un modèle de prévisions de trésorerie
-Suivi mensuel de la trésorerie
-Suivi du portefeuille d’actifs et du résultat financier de Wakam en réel et en prévisionnel
-Formalisation et amélioration continue des processus de l'ensemble du périmètre
-Contribution à l’optimisation du résultat de Wakam 
-✯ Profil recherché 
-Pour compléter l'expertise de notre squad Finance et fusionner avec notre environnement agile, dynamique et exigeant :
+Wakam operate in 32 countries across Europe with most of the revenues generated outside of France. Most of our products are delivered through API and hosts white label insurance solutions via our Play&Plug platform.
 
-Formation niveau bac + 5 souhaitée de type Ecole supérieure de commerce, Management avec idéalement un spécialité en Audit Financier/contrôle de gestion ;
-5 ans d'expérience souhaitée sur un poste similaire ;
-Être rigoureux, curieux, intuitif et créatif ;
-Être force de proposition pour améliorer l’efficacité opérationnelle de son périmètre ;
-Avoir l’esprit d’analyse ;
-Avoir le sens de la communication orale et écrite ;
-Développer et cultiver des qualités relationnelles, favoriser l'esprit d'équipe ;
-Maîtriser les outils informatiques ;
-Maitriser l'anglais à l'oral comme à l'écrit ;
-Une connaissance en gestion de trésorerie serait fortement appréciée.
-Process de recrutement
+Since March 2021, we are a Mission-driven company. We defined 9 concrete commitments to illustrate this mission, such as writing our insurance contracts in plain language. We also create insurance products at cost for associations.
+
+The UK company is new and as such there is much to implement and deliver to successfully achieve the strategic plans. To support the company's strong profitable growth, Wakam is looking for a Head of Operations UK, who will act as our SMF 24 responsibility with the UK regulator(s).
+
  
 
- Echange avec Jade, Talent Acquisition
- Echange avec notre Head of FP&A
- Echange avec un membre de l'équipe
- Echange avec Laura, Head of Talent
+⌖ The Mission
+In a matrix organisation, you’ll be report to the UK Branch Manager with a dotted lined with the VP Tech and VP Data based in France
+
+The Head of Operations role is a key component of achieving these profitable growth plans and will be responsible for managing all the operational delivery much of which is outsourced on mainly Tech & Data.
+
+The scope of the role will include all the key material service providers eg all Technology/Data, but also Finance processing / Actuarial / Underwriting and other services. You will be able to rely on the Finance, Actuary, Underwriting teams in Wakam UK for domain experience/expertise, but there is no other domain experience for Technology/Data in UK.
+
+Planning, developing and implementing the strategy for the operational management and development of the Company to ensure that the agreed organizational performance plans are met within the agreed budgets and timescales (including claims, outsourcing, marketing and distribution, underwriting, IT and HR),
+Responsible for coordination of actions and issue resolution activities with Service Owners and service providers regarding outsourced activities and act as a first point of call for issue resolution,
+Establishing and maintaining appropriate systems for measuring necessary aspects of operational management and development (including the Company's Outsourcing Register),
+Undertaking the day-to-day activities for the monitoring of all activities outsourced (except for underwriting and claims activities) to third parties or to Wakam Group companies,
+Liaising with other functional/departmental managers to understand all necessary aspects and needs of operational development, and to ensure they are fully informed of operational objectives, purposes and achievements,
+Interact closely with Wakam Business teams to understand the product and the data needed to ensure Wakam can act fully and safely as a risk carrier and ensure that data is delivered.
+Provide data advice and requirements to the UK partners based on the product specificities and Wakam's data needs in a timely manner and making sure the datas are accurate and appropriate quality
+Report on data implementation projects progress via dedicated tools, both in Data Office committees and Business Committees
+Responsible for establishing an appropriate control environment for ensuring all information technology systems are operating effectively and as intended as required under the Operational Risk Policy. This includes ensuring key policies around matters of confidentiality, information security, integrity, access and preservation of data are designed to mitigate risks of potential exposure of information assets.
+Responsible for implementing associated Data Protection processes and procedures alongside the Head of Compliance,
+Managing and controlling departmental expenditure within agreed budgets,
  
 
+✯ Profile requirements
+You have significant experience in a similar position and ideally already holding SMF24 with a solid experience in managing outsourcing providers, ideally in technology/data outsourcing
+You have the ability to manage multiple projects at the same time
+Ability to work on initiatives at both strategic and macro level but also to operate at detailed level. The role requires a ‘hands on’ approach
+Ability to lead and mentor cross-functional teams, fostering a culture of collaboration, accountability, and continuous improvement.
+Proven experience in developing and implementing and reporting on robust processes and procedures to ensure compliance
+Strong experience in operational forecasting and monitoring
+Bonus : if you have good level of french in a professional context (reading, writing, speaking) and if you have previously worked in the insurance industry
+ 
+
+Expected qualities:
+
+You are passionate about your job and want to share your experience with others
+You are driven by a continuous learning and improvement approach
+You are appreciated for your commitment
+Highly developed analytical and problem-solving skills
+Strong written and verbal communication and influencing skills,
+A commitment to a collaborative work environment, quality programs and data driven program evaluation, and customer centric
+ 
+
+Recruitment process
+Interview with the Lead recruiter
+Interview with the UK Branch Manager
+Interview with the VP Data and VP Tech
+HR interview with the Head of Talent
 => Welcome @Wakam 🙌
-
- 
 
  
 
@@ -276,12 +372,12 @@ Every last Friday of the month, it's Free.day at Wakam, a day without meetings t
 Full-remote is a reality at Wakam (there is even one Wakamee who works from his sailing boat ⛵)
 Last but not least : we are nice and we have fun! (you'll find out by yourself 😉)
         </description>
-        <url>https://boards.eu.greenhouse.io/wakam/jobs/4205370101</url>
-        <location>Paris</location>
-        <country>France</country>
+        <url>https://boards.eu.greenhouse.io/wakam/jobs/4174356101>
+        <location>Londres</location>
+        <country>Grande Bretagne</country>
         <remote>1</remote>
         <company>Wakam</company>
-        <category>Accounting & Finance Jobs</category>
+        <category>Legals Jobs</category>
         <contract_type>permanent</contract_type>
         <contract_time>full_time</contract_time>
     </job>
@@ -368,168 +464,72 @@ Last but not least : we are nice and we have fun! (you'll find out by yourself �
         <contract_time>full_time</contract_time>
     </job>
     <job>
-        <title>IT Helpdesk Technician - Hybrid from UK</title>
-        <id>4196556101</id>
+        <title>Data Manager UK - Hybrid or Remote from UK</title>
+        <id>4240262101</id>
         <description>
-Wakam is a European B2B2C insurer that designs white label general insurance (GI) products for its partners (e-retailers, brokers and fintechs/insurtechs, ...). Our insurance solutions are embedded within the products or services offered to the end- customer. We operate in 32 countries across Europe with most of the revenues generated outside of France. Most of our products are delivered through API and hosts white label insurance solutions via our Play&Plug platform.
- 
-We are looking for an IT Helpdesk Technician to work from our new office in London. Reporting to our Team Lead Infrastructure based in France, you will ensure the operational maintenance of the systems as well as the deployment of the workstation and the terminals (Windows, MacOs, iOS).
- 
-✎ Missions  
-You will be responsible for providing on-site technical support to our employees that are working in our London office. You will also assist UK and French employees working remotely and attached to our London or Paris offices, with tasks including troubleshooting hardware and software issues, setting up new devices, and managing user accounts. Your responsibilities, among others, will be to:
- 
-Serve as first contact for employees who need technical assistance on-site in our London Office or via the phone, email, Slack or Ticketing software (Zendesk) for employees working remotely from Paris or London Offices.
-Perform troubleshooting using different diagnostic techniques.
-Create IT support tickets via ticket-tracking software and monitoring progress of individual task pathways.
-Resolve and process employees requests (access problems, creation of accounts…).
-Escalate the most complex cases to functional or technical experts in IT department.
-Close tickets while ensuring user satisfaction. Providing efficient and effective IT support to users throughout the organization.
-Prioritize workloads effectively.
-Ensure computer hardware throughout organization is in good working order and installing new software.
-Manage server and application access rights through Active Directory profiles.
-Generate activity reports.
-Point-in-time interventions on network architecture (managed by a network administrator).
-Participate in foresight work and technology watch.
-Write descriptive documentation necessary for operation and support.
- 
- 
- 
- 
-✯ Profile
-Experience in IT support,
-Excellent communication skills,
-Customer-oriented approach,
-Fluent in English and in French.
-Your working mindset:
- 
-Strong sense of service and ability to prioritize tasks with anticipation and autonomy
-Possess targeted human qualities
-Passionate about the profession and willing to share experience
-Constantly striving for improvement through an attitude of continuous learning
-Committed and attentive to technical trends while remaining aware of product quality and exploitation of these technologies.
- 
- 
- 
- 
+Wakam designs tailor-made insurance products which are then distributed by distribution partners (brokers, insurtechs, retailers) on a white-label B2B2C model.
+
+To meet these challenges, Wakam has built a technological platform comprising a "customer facing" section (various portals) and a Data Platform for integrating and storing data from distribution partners (insurance contracts, receipts, claims), and supporting the various transformation and enhancement use cases (Business Intelligence, Data Science, operational systems feed).
+
+The UK company is new and as such there is much to implement and deliver to successfully achieve the strategic plans. To support the company's strong profitable growth, Wakam is looking for a Data Manager UK.
+
+ 
+
+⌖ Mission
+The UK Data Manager role is a key component of Wakam UK achieving these profitable growth plans. The role will be responsible for managing all aspects of the UK Data availability, quality and timeliness but also ensure that the business teams have the KPIs and data they need to run the business and achieve these goals. This will require a hands-on approach and working with our outsourced providers to deliver the business requirements.
+
+You will report to the Head of Operations UK and responsible for ensuring the data from our UK partners is provided in a timely manner and that it is accurate and of the appropriate quality such as :
+
+Ensure that new partners implement the data flows to reach Wakam's expectations in terms of data technical format and business constraints. Provide data advice and requirements to the UK partners based on the product specificities and Wakam's data needs
+Responsible for ensuring that the Wakam Business teams have the data they needed to ensure Wakam can act fully and safely as a risk carrier
+You will be a key contact for internal clients (Technical Reserving and Profitability Department, Reinsurance, Accounting) and partners for the various Data issues in the UK
+Responsible for managing all data related topics to resolution (incidents/problems, evolution requests, assistance) and handle them to agreed service levels, quality and timelines. This will include managing and liaising with the Wakam SA data team to deliver the outcomes required
+Design, specify, develop and document ETL/ELT processes, data preparation, business intelligence, KPI calculations and reporting using the following technologies (non-exhaustive list): SQL (Snowflake, DBT, Databricks), Python, Power BI in a DevOps approach (build and run)
+Supporting users around DataViz and Self Service BI topics: Participate in workshops to help define objectives, KPIs and visuals to meet their usage(s), train them and support them.
+Report on data implementation projects progress via dedicated tools, both in Data Office committees and Business Committees
+Responsible for establishing an appropriate control environment for ensuring all data and information systems are operating effectively and as intended as required under the UK Operational Risk Policy. This includes ensuring key policies around matters of Data Privacy, confidentiality, information security, integrity, access and preservation of data are designed to mitigate risks of potential exposure of information assets
+You will develop tools or scripts to assist in the qualification of requests and the automation of resolutions
+ 
+
+✯ Profile requirements
+You have at relevant experience in a similar position, you are very comfortable with business intelligence modeling and SQL (DBT is a plus), and you have already successfully led BI projects
+You are very comfortable with data modelling, analytics and business intelligence
+You are an expert in SQL and are comfortable in Python
+In addition to your development skills, you have significant experience in understanding users' functional requirements. You like to understand the work of the business and its BI uses. You'll be able to identify their needs, train and support them through dedicated workshops
+You have the ability to manage multiple projects at the same time
+Bonus: if you have good level of french in a professional context (reading, writing, speaking) and if you have previously worked in the insurance industry
+ 
+
+Expected qualities:
+
+You are passionate about your job and want to share your experience with others
+You are driven by a continuous learning and improvement approach
+You are appreciated for your commitment
 Recruitment process
-To help you get a complete picture of our hiring process and Wakam's work culture, please visit our dedicated page: Interviews at Wakam
- 
-Screening interview with Jade, Talent Acquisition
-Manager interview with our Team Lead Infrastructure & Head of Infrastructures & Operations
-Culture fit interview with Laura, Head of Talent
-=> Welcome @Wakam
- 
- 
- 
+Interview with the Lead recruiter
+Technical interview with 2 team members of Data Office
+Interview with VP Data and the UK Branch Manager
+HR interview with the Head of Talent
+ 
+
+=> Welcome @Wakam 🙌
+
+ 
+
 Positive energy, agility, and team spirit are essential to support Wakam in its hyper-growth!
- 
+
 You have the Wakam mindset? Join us!
- 
- 
- 
+
+ 
+
 More about us
-Our culture? Free to impact. A culture where everything is possible, where all ideas are taken into consideration, where everyone has an impact on the transformation of insurance! Hungry for freedom? Thirsty for autonomy? If you are adventurous and like challenges, then the Wakam adventure might be made for you!
- 
+Our culture? Free to impact. A culture where everything is possible, where all ideas are taken into consideration, where everyone has an impact on the transformation of insurance! Hungry for freedom? Thirsty for autonomy? If you are adventurous and like challenges, then the Wakam adventure might be made for you! 
+
 Discover -on our website- who we really are with the 11 cultural markers that so well describe us!
- 
+
 What we are looking for
 Mindset compatibility with our ‘Free to Impact’ culture:
- 
-Think big
-Biased for action
-Curious and eager to learn
-Can say no and find solutions
-Aims for the moon (but please don’t stick on the moon)
-And above all: have fun working together 🤜🤛 !
-Good to know
-Wakam is not based on a hierarchy but on a methodology where everyone finds his role and knows his objectives.
-With a flat hierarchical system and a highly collaborative operating model, Wakam is an extremely agile and transparent company.
-Every last Friday of the month, it's Free.day at Wakam, a day without meetings to take a step aside and dedicate ourselves to skills sponsorship or other activities (because we are curious, I remind you).
-Full-remote is a reality at Wakam (there is even one Wakamee who works from his sailing boat ⛵)
-Last but not least : we are nice and we have fun! (you'll find out by yourself 😉)​
-        </description>
-        <url>https://boards.eu.greenhouse.io/wakam/jobs/4196556101</url>
-        <location>Londres</location>
-        <country>Grande Bretagne</country>
-        <remote>1</remote>
-        <company>Wakam</company>
-        <category>IT Jobs</category>
-        <contract_type>permanent</contract_type>
-        <contract_time>full_time</contract_time>
-    </job>
-    <job>
-        <title>Chief Financial Officer UK</title>
-        <id>4167645101</id>
-        <description>
-​Wakam is a European B2B2C insurer that designs white label general insurance (GI) products for its partners (e-retailers, brokers and fintechs/insurtechs, ...). Our insurance solutions are embedded within the products or services offered to the end-customer.
- 
-Wakam operate in 32 countries across Europe with most of the revenues generated outside of France. Most of our products are delivered through API and hosts white label insurance solutions via our Play&Plug platform.
- 
-Our culture? Free to impact.
- 
-A culture where everything is possible, where all ideas are taken into consideration, where everyone has an impact! Hungry for freedom? Thirsty for autonomy? If you are adventurous, then the Wakam adventure might be made for you!
- 
-In the context of Wakam's hyper growth, our ambition is to build a robust organization to meet our needs in the UK. The challenge is great, the playing field is vast, and the prospects for long-term development are open !
- 
- 
- 
-⌖ Your Mission & Responsibilities
-Reporting to the UK CEO, based in London, and the VP Finance, based in France, you will lead all aspects of Wakam UK’s Financial Management function (accounting, FP&A, tax and cash management, asset & liability). As a regulated role, you’ll be a Key Function Holder (SMF2) with the following responsibilities :
- 
-Financial reporting
- 
-In partnership with the Actuarial function, ensuring the production and integrity of Wakam U.K's financial information and its regulatory reporting; overseeing financial reporting and analysis to the Board, key operational executives and other appropriate parties
-Reporting and UK Gaap accounting as per regulatory and legal requirements in relation to taxation, dividends, annual reports and accounts
-Tax & Cash Management
- 
-Responsibility for local tax & cash management reporting
-Regulatory reporting
- 
-Assisting the Company to continuously comply with the PRA's prudential requirements and monitoring regulatory developments in this area
-Advising the Board with appropriate financial management information and alerting them to all matters of potential regulatory concern
-Risk management & Internal control
- 
-Responsibility for risk management overall (including ownership of certain key risks in accordance with the Risk Management Framework and Policy)
-Ensuring that an effective financial management and internal control environment exists, including the effective management of cash flow and expenses, protection against fraudulent activities
-Business and financial strategy and planning, monitoring, management and reporting, including management and development of policies, systems, processes and personnel involved
-Business partnering & strategy
- 
-In partnership with the actuarial function, managing the allocation and maintenance of Wakam UK's capital and liquidity; ensuring at all times that the Company's regulatory capital requirements are met and that sufficient capital resources are available to support the Board-approved business strategy. Such assessment shall include sufficient "stress testing" to assist the Board in evaluating the risk level with respect to the business strategy
-Developing and maintaining Wakam UK's business model by the governing body
-Providing the Board with a thorough analysis of the Company's future capital investment requirements
-Providing support on all strategic issues that require material financial investment
-Other areas of potential responsibility: company insurance, licensing, contracts and agreements, legal areas and activities, corporate-level negotiations (e.g. premises, plant, trading, acquisitions and divestments, disposals), major supplier/customer/partner relationships, regulatory bodies relationships and strategies, approvals and accreditations.
- 
- 
-✯ Your Profile
-Qualified accountant (ACA, ACCA, CIMA etc.) with extensive experience within UK insurance industry in a similar role (or Head of Finance, Financial controller,…) ideally with an international insurer,
-Strong understanding of UK Gaap and regulatory requirements such as Solvency II,
-Ability to work on initiatives at both strategic and macro level but also to operate at detailed level.
-The role requires also to be “hands on”.
-Your working mindset
- 
-Highly developed analytical and problem-solving skills
-You are dynamic, reactive and you perform well in fast-paced environments
-Strong communication and influencing skills
-Ability to work within collaborativeley within an international team
-Customer centric mindset
- 
- 
- 
-Positive energy, agility, and team spirit are essential to support Wakam in its hyper-growth!
- 
-You have the Wakam mindset? Join us!
- 
- 
- 
-More about us
-Our culture? Free to impact. A culture where everything is possible, where all ideas are taken into consideration, where everyone has an impact on the transformation of insurance! Hungry for freedom? Thirsty for autonomy? If you are adventurous and like challenges, then the Wakam adventure might be made for you!
- 
-Discover -on our website- who we really are with the 11 cultural markers that so well describe us!
- 
-What we are looking for
-Mindset compatibility with our ‘Free to Impact’ culture:
- 
+
 Think big
 Biased for action
 Curious and eager to learn
@@ -543,7 +543,131 @@ Every last Friday of the month, it's Free.day at Wakam, a day without meetings t
 Full-remote is a reality at Wakam (there is even one Wakamee who works from his sailing boat ⛵)
 Last but not least : we are nice and we have fun! (you'll find out by yourself 😉)
         </description>
-        <url>https://boards.eu.greenhouse.io/wakam/jobs/4167645101</url>
+        <url>https://boards.eu.greenhouse.io/wakam/jobs/4240262101</url>
+        <location>Londres</location>
+        <country>Grande Bretagne</country>
+        <remote>1</remote>
+        <company>Wakam</company>
+        <category>IT Jobs</category>
+        <contract_type>permanent</contract_type>
+        <contract_time>full_time</contract_time>
+    </job>
+    <job>
+        <title>Head of Accounting & Tax - Hybrid or remote from UK</title>
+        <id>4235790101</id>
+        <description>
+​At  Wakam, we are rapidly expanding our operations in the UK, and we're looking for a Head of Accounting & Tax to join our dynamic team. Our company is not your typical insurance organization; we're a tech-driven, innovative company that values performance, agility, and rapid execution. With a challenging workload and a great working atmosphere, we're on a mission to build a robust Finance department in the UK. This role comes with significant flexibility and the opportunity for remote work, making it an excellent fit for those who thrive in a fast-paced environment.
+
+Key Responsibilities:
+
+Establish Financial Operations in the UK: In this role, you will play a crucial part in setting up and structuring the finance activities in the UK, in alignment with what is being done at our Head Office in France.
+
+Process Enhancement: Work on designing, streamlining and enhancing financial processes, while ensuring a smooth integration of the UK accounting function with the Head Office. This includes working closely with the teams in France and aligning with the UK's development strategy and regulatory requirements.
+Design the organization of the operating model with the Head Office.
+Produce regulatory closings on a quarterly basis under the UK Gaap & French Gaap. 
+Production of Reports: Produce financial reports that support the Head Office while maintaining and improving the reporting processes. This includes a deep understanding of reporting issues with local authority.
+Monitoring the UK Financial Performance: Assist in giving visibility about our UK financial performance from an accounting point of view.
+Direct Reporting: Report directly to the CFO UK and collaborate with the Head Office in a matrix, cross-functional structure. 
+Required experience & Qualification:
+
+Financial/chartered accountancy degree.
+Significant experience with similar responsibilities on a previous function is ideal.
+Accounting expertise: strong accounting expertise is necessary for this role. Familiarity with the insurance sector is a plus but can be developed on the job.
+Attitude and Soft Skills: able to work cross-functionally, with strong reporting acumen, and in-depth knowledge of financial regulations. Being highly detail-oriented and meticulous in accounting practices is essential.
+Rigorous and Constructive: high degree of rigor and able to design a target operating model for running operations. This role involves working in a multicultural environment with the Head Office.
+ 
+
+ 
+
+Positive energy, agility, and team spirit are essential to support Wakam in its hyper-growth!
+
+You have the Wakam mindset? Join us!
+
+ 
+
+More about us
+Our culture? Free to impact. A culture where everything is possible, where all ideas are taken into consideration, where everyone has an impact on the transformation of insurance! Hungry for freedom? Thirsty for autonomy? If you are adventurous and like challenges, then the Wakam adventure might be made for you! 
+
+Discover -on our website- who we really are with the 11 cultural markers that so well describe us!
+
+What we are looking for
+Mindset compatibility with our ‘Free to Impact’ culture:
+
+Think big
+Biased for action
+Curious and eager to learn
+Can say no and find solutions
+Aims for the moon (but please don’t stick on the moon)
+And above all: have fun working together 🤜🤛 !
+Good to know
+Wakam is not based on a hierarchy but on a methodology where everyone finds his role and knows his objectives.
+With a flat hierarchical system and a highly collaborative operating model, Wakam is an extremely agile and transparent company.
+Every last Friday of the month, it's Free.day at Wakam, a day without meetings to take a step aside and dedicate ourselves to skills sponsorship or other activities (because we are curious, I remind you).
+Full-remote is a reality at Wakam (there is even one Wakamee who works from his sailing boat ⛵)
+Last but not least : we are nice and we have fun! (you'll find out by yourself 😉)
+        </description>
+        <url>https://boards.eu.greenhouse.io/wakam/jobs/4235790101</url>
+        <location>Londres</location>
+        <country>Grande Bretagne</country>
+        <remote>1</remote>
+        <company>Wakam</company>
+        <category>Accounting & Finance Jobs</category>
+        <contract_type>permanent</contract_type>
+        <contract_time>full_time</contract_time>
+    </job>
+    <job>
+        <title>Head of FP&A - Hybrid or remote from UK</title>
+        <id>4236000101</id>
+        <description>
+At  Wakam, we are rapidly expanding our operations in the UK, and we're looking for a Head of FP&A to join our dynamic team. Our company is not your typical insurance organization; we're a tech-driven, innovative company that values performance, agility, and rapid execution. With a challenging workload and a great working atmosphere, we're on a mission to build a robust Finance department in the UK. This role comes with significant flexibility and the opportunity for remote work, making it an excellent fit for those who thrive in a fast-paced environment.
+
+Key Responsibilities:
+Establish Financial Operations in the UK: In this role, you will play a crucial part in setting up and structuring the finance activities in the UK, aligning them with what is being done at our Head Office in France.
+Process Enhancement: Work on designing, streamlining, and enhancing financial processes while ensuring a seamless integration of the UK's FP&A function with the Head Office. This includes working closely with the teams in France and aligning with the UK's development strategy and regulatory requirements.
+Design Operating Model: Collaborate with the Head Office to design the organization's operating model for the UK branch.
+Production of budget and forecast for the UK perimeter, in collaboration with the headquarter. 
+Production of Reports: Produce financial reports that support the Head Office while maintaining and improving the reporting processes. This includes a deep understanding of reporting issues with local authorities.
+Monitoring the UK Financial Performance: Assist in giving visibility about our UK financial performance from a financial planning and analysis point of view.
+Direct Reporting: Report directly to the CFO UK and collaborate with the Head Office in a matrix, cross-functional structure.
+ 
+Required Experience & Qualifications:
+Financial/Chartered Accountancy Degree.
+Experience: significant experience in similar responsibilities in a previous role is ideal.
+Financial expertise: strong financial planning and analysis expertise is necessary for this role. Familiarity with the insurance sector is a plus but can be developed on the job.
+Attitude and Soft Skills: able to work cross-functionally, with strong reporting acumen, and in-depth knowledge of financial regulations. Attention to detail and meticulous financial practices are essential.
+Rigorous and Constructive: High degree of rigor and able to design a target operating model for running financial operations. This role involves working in a multicultural environment with the Head Office.
+ 
+
+ 
+
+Positive energy, agility, and team spirit are essential to support Wakam in its hyper-growth!
+
+You have the Wakam mindset? Join us!
+
+ 
+
+More about us
+Our culture? Free to impact. A culture where everything is possible, where all ideas are taken into consideration, where everyone has an impact on the transformation of insurance! Hungry for freedom? Thirsty for autonomy? If you are adventurous and like challenges, then the Wakam adventure might be made for you! 
+
+Discover -on our website- who we really are with the 11 cultural markers that so well describe us!
+
+What we are looking for
+Mindset compatibility with our ‘Free to Impact’ culture:
+
+Think big
+Biased for action
+Curious and eager to learn
+Can say no and find solutions
+Aims for the moon (but please don’t stick on the moon)
+And above all: have fun working together 🤜🤛 !
+Good to know
+Wakam is not based on a hierarchy but on a methodology where everyone finds his role and knows his objectives.
+With a flat hierarchical system and a highly collaborative operating model, Wakam is an extremely agile and transparent company.
+Every last Friday of the month, it's Free.day at Wakam, a day without meetings to take a step aside and dedicate ourselves to skills sponsorship or other activities (because we are curious, I remind you).
+Full-remote is a reality at Wakam (there is even one Wakamee who works from his sailing boat ⛵)
+Last but not least : we are nice and we have fun! (you'll find out by yourself 😉)
+        </description>
+        <url>https://boards.eu.greenhouse.io/wakam/jobs/4236000101</url>
         <location>Londres</location>
         <country>Grande Bretagne</country>
         <remote>1</remote>
@@ -726,7 +850,7 @@ Last but not least : we are nice and we have fun! (you'll find out by yourself �
     </job>
     <job>
         <title>Comptable Technique Réassurance Sénior - Remote ou Hybride en France</title>
-        <id>4157022101</id>
+        <id>4239910101</id>
         <description>
 ​Wakam est un assureur B2B2C européen qui conçoit des produits d'assurance en marque blanche pour ses partenaires (e-commerçants, courtiers et fintechs/insurtechs...). Nos produits d'assurance ont la particularité d'être embarqués dans les produits ou services proposés au client final.
  
@@ -801,7 +925,7 @@ Every last Friday of the month, it's Free.day at Wakam, a day without meetings t
 Full-remote is a reality at Wakam (there is even one Wakamee who works from his sailing boat ⛵)
 Last but not least : we are nice and we have fun! (you'll find out by yourself 😉)
         </description>
-        <url>https://boards.eu.greenhouse.io/wakam/jobs/4157022101</url>
+        <url>https://boards.eu.greenhouse.io/wakam/jobs/4239910101</url>
         <location>Paris</location>
         <country>France</country>
         <remote>1</remote>
@@ -811,57 +935,57 @@ Last but not least : we are nice and we have fun! (you'll find out by yourself �
         <contract_time>full_time</contract_time>
     </job>
     <job>
-        <title>International Business Developer - Remote from EMEA</title>
-        <id>4202747101</id>
+        <title>UK Reserving Manager - Hybrid or remote from UK</title>
+        <id>4192802101</id>
         <description>
 ​Wakam is a B2B2C insurer that designs white-label insurance products for its partners (insurance specialists and non specialists). These insurance products have the distinctive feature of being embedded in the products or services offered to the end customer (for example, if you take out a self-service scooter 🛴, you're automatically insured). Wakam is present in 32 European countries. By 2022, we will have achieved over 60% of our sales outside France, which is why we are recruiting Wakamees who speak English. Our culture? Free to impact. A culture where anything is possible, where all ideas are considered, where everyone has an impact on the transformation of insurance! Looking for freedom? Thirsting for autonomy? If you're intrepid and like a challenge challenge, Wakam is for you!
  
  
- 
-✎ Mission
-As an International Business Developer, your role will be to boost our international footprint with broker partners, MGAs, insurtech, fintech & retailers.
- 
-We are looking for a person driven by the opportunity to pitch our modern vision of insurance, allowing our partners to make the most of our tailor-made solutions in order to concretely meet the needs of their end customers.
- 
-You thrive in a fast-paced, changing and fast-growing environment. Our leitmotive "free to impact" offers the possibility of contributing to the development of the company in a proactive manner and of having a positive influence on societal developments. Do these markers testify to a model that suits you?
- 
-If the answer is yes, we want to hear from you!
- 
-Within our experienced team of Business Developers, and reporting to our Head of Sales, you main responsibilities will be to:
- 
-Define and manage an active BD process internationally with prospects or existing partners, in particular with insurtechs/fintechs and retailers/marketplaces.
-Set up a watch on Development countries as well as on partners/prospects which targeting to expand internationally.
-Study business opportunities, then ensure their proper implementation while respecting the Company's guidelines (subscription guide and production process) and monitor the lifecycle of the partnerships' portfolio.
-Ensure the organic growth and renewal of business under your management, promote ancillary products, up sale/cross sale.
-Contribute to the formalization of a Wakam International Business Development plan in line with the team objective.
-Promote the Wakam service offering to prospects and partners and be a proactive player in its development.
- 
- 
-✯ Profile required
-A 5-years academic level is desired in International Business/Insurance field.
-5+ years of experience in international Insurance business. Experience with selling B2B2C API's digital Insurance or software industry is a plus.
-An International Reinsurance/Brokerage network is a plus.
-Speaking a fluent English is mandatory for this role. An additional language would be appreciated.
-Your working mindset :
-Ability to make a significant personal sales contribution
-Interpersonal skills and ability to cooperate with others
-Negotiation & Persuasion skills
-Project Management skills
-Proactivity
-Ability to understand the mentality of clients
-Attraction to innovation
-Autonomy, at ease with taking initiative
- 
-Recruitment Process
-Interview with Jade, Talent Acquisition
-Manager interview with our Head of Sales
-Technical interview with a senior BD Team member
-Fit interview with a country Manager
-HR interview with Laura, Head of Talent
+As a Reserving Manager, you will play a pivotal role in our organization, collaborating with various UK teams, including central teams in France.
+
+Your mission & key responsibilities:
+Your main role will be to ensure the accuracy of statutory and prudential reserves for our UK business P&C (mainly motor, property and affinity) in particular, aligning with Solvency UK requirements.
+
+Reporting to our UK Chief Actuary and fostering collaboration with our central and local teams, your key responsibilities in this role include:
+
+Reserving Expertise: Utilize your strong reserving background for accurate and fair statutory and prudential reserve calculations.
+Innovation and Insight:
+Review and advocate for process updates to enhance efficiency and effectiveness.
+Define innovative analyses to understand emerging risks.
+Collaborate with other teams to improve insight provided by the reserving team, more specifically with the claims teams.
+Clear Communication & collaborative leadership:
+Lead the reserving process, ensuring alignment with our company's standards, and foster collaboration with various teams.
+Effectively convey complex technical subjects to non-technical team members, ensuring mutual understanding and consensus on critical topics.
+Lead interactions with other areas of the business to ensure accurate results.
+Make clear recommendations for management action.
+Engage with external parties, including regulators and auditors.
+Solvency requirements: Act in accordance with UK Solvency requirements, including under the delegated authority of the Chief Actuary, and approve the fairness and accuracy of reserves for UK business.
+Management and Analysis:
+Manage reserving projections and be a key player on the data governance processes.
+Direct analyses considering outcomes on different bases, including GAAP, Solvency II, etc.
+ 
+
+Your profile
+To excel in this role, you should have the following qualifications and qualities:
+
+Significant experience in reserving.
+An actuarial background on P&C business, providing you with the expertise needed for this role.
+Confidence and the ability to take responsibility for ensuring accurate reserves.
+Accountability for delivery of outcomes.
+Impact-driven with a focus on improving processes and insights.
+Enjoy problem-solving and critical thinking.
+Inquisitive mind and effective communication.
+High attention to detail and accuracy.
+
+            
+Interview process
+
+Screening interview with Talent recruiter
+Manager interview with UK Chief Actuary 
+Cross interview with France Chief Reserving & France Reserving team lead 
+HR interview with Head of Talent or VP People & Culture
+            
 -> Welcome at Wakam 🙌
- 
- 
- 
  
  
 Positive energy, agility, and team spirit are essential to support Wakam in its hyper-growth!
@@ -891,72 +1015,70 @@ Every last Friday of the month, it's Free.day at Wakam, a day without meetings t
 Full-remote is a reality at Wakam (there is even one Wakamee who works from his sailing boat ⛵)
 Last but not least : we are nice and we have fun! (you'll find out by yourself 😉)
         </description>
-        <url>https://boards.eu.greenhouse.io/wakam/jobs/4202747101</url>
-        <location>Paris</location>
-        <country>France</country>
+        <url>https://boards.eu.greenhouse.io/wakam/jobs/4192802101</url>
+        <location>Londres</location>
+        <country>Grande Bretagne</country>
         <remote>1</remote>
         <company>Wakam</company>
-        <category>Sales Jobs</category>
+        <category>Scientific & QA Jobs</category>
         <contract_type>permanent</contract_type>
         <contract_time>full_time</contract_time>
     </job>
     <job>
-        <title>Transformation Manager</title>
-        <id>4192832101</id>
+        <title>UK Capital Manager - Hybrid or Remote from the UK</title>
+        <id>4192807101</id>
         <description>
-Wakam est un assureur B2B2C européen qui conçoit des produits d'assurance en marque blanche pour ses partenaires (e-commerçants, courtiers et fintechs/insurtechs...). Nos produits d'assurance sont embarqués dans les produits ou services proposés au client final.
+Wakam is a European B2B2C insurer that designs white label general insurance (GI) products for its partners (e-retailers, brokers and fintechs/insurtechs, ...). Our insurance solutions are embedded within the products orservices offered to the end- customer.
+
+Wakam operate in 32 countries across Europe with most of the revenues generated outside of France. Most of our products are delivered through API and hosts white label insurance solutions via our Play&Plug platform.
+
+Since March 2021, we are a Mission-driven company. We defined 9 concrete commitments to illustrate thismission, such as writing our insurance contracts in plain language. We also create insurance products at cost for associations.
+
+Our culture? Free to impact. A culture where everything is possible, where all ideas are taken into consideration, where everyone has an impact! Hungry for freedom? Thirsty for autonomy? If you are curious, then the Wakam adventure might be made for you!
+
+ 
+
+Main Tasks & Responsibilities
+Wakam innovative "capital-light" model, contribute to making capital Management a key part of our strategy. Working within the Capital Management, you will interact with all offices (such as Risk, Reinsurance, Actuarial and Finance) and will have the following main missions:
+
+Design and delivery of capital actuarial models, processes and systems
+Making recommendations regarding solvency and capital assessment
+Oversight of the actuarial assessments required to calculate the company’s capital; to assist in ensuring that the company's regulatory capital requirements are met and that sufficient capital resources are available to support the Board-approved business strategy. Such assessment shall include sufficient "stress testing" to assist the Board in evaluating the risk level with respect to the business strategy
+Assessing the sufficiency and quality of the data used in the calculation of capital models
+Ensuring appropriateness assessments of the standard formula are completed and the relevant outcomes reported to the risk committee
+Involvement in the definition and orchestration of capital operations (capital raise, subordinated debt issuance, etc.)
+Analysis and implementation of capital optimisation strategies (such as the use of USPs/partial internal model, update of calculation methodologies, rationalization of the portfolio mix, etc.)
+Involvement in strategic projects impacting the company’s capital (Lloyd’s syndicate,  financial rating, etc.) and in helping determine and assessing the strategic options the company may take in the future
+Update of the strategic asset allocation 
+Review of solvency calculations (Standard Formula) and ORSA projections
+Contributing to the effective implementation of the risk management system, in particular with respect to the risk management underlying the calculation of the solvency capital requirements and minimum capital requirements and the Company's ORSA
+Ownership of key risks in accordance with the Risk Management Framework and Policy regarding capital
+ 
+
+These missions may evolve according to the company’s needs and projects, in line with your profile.
+
+This position will be based in our London office, remote working possible from the UK.
+
+Regular trips to our Headquarters in Paris may be required. 
+
+ 
+
+Your profile
+Master’s degree in actuarial science or Statistics
+Minimum 8 years of experience in an insurance/reinsurance company or consulting firm
+Good knowledge of capital-related subjects (modeling and operations), as well as risk transfer mechanisms; in particular Solvency 2 and reinsurance
+Organizational skills, autonomy and critical thinking allowing the proper management of projects
+Ease in oral/written communication; French language skills are a plus
+ 
+
+Recruitment process: 
+
+Screening interview with Charlotte, Talent Expert 
+Technical & fit interview with Chief of Capital Management & Alternative Risk Transfer
+Leadership fit interview with senior executive team member 
+HR culture fit interview with Laura, Head of Talent 
  
-Nous sommes présents dans 32 pays européens et fournissons la plupart de nos produits via des API, et hébergeons des solutions d'assurance en marque blanche via notre plateforme technologique Play&Plug.
- 
-Depuis mars 2021, nous sommes une entreprise à mission. Nous avons défini 9 engagements concrets pour incarner cette mission, comme la rédaction de nos contrats d'assurance en langage clair. Nous créons également des produits d'assurance à prix coûtant pour les associations.
- 
-Notre culture ? Free to impact. Une culture où tout est possible, où toutes les idées sont prises en considération, où chacun a un impact sur la transformation de l'assurance ! Avide de liberté ? Soif d'autonomie ? Si vous êtes audacieux et aimez les défis, alors l'aventure Wakam est peut-être faite pour vous !
- 
-Dans un contexte de croissance à deux chiffres, délivrer la promesse attendue par nos partenaires requiert d’adapter constamment la façon dont nous opérons.
- 
-Wakam lance un programme ambitieux de transformation et recherche un Transformation Manager en CDI afin de construire le modèle opérationnel de demain.
- 
- 
- 
-✎ La Mission
-Au sein du Département Transformation & Performance rattaché à la Direction Générale, vous serez être le chef d’orchestre de projets clés et guiderez la transformation pour amener Wakam encore plus loin dans la recherche de la performance et l’efficience opérationnelle.
- 
-Vous aurez la charge de piloter des projets de transformation majeurs, de garantir la bonne exécution du plan de transformation et d’animer la gouvernance associée.
- 
-Vos principales missions :
- 
-Amélioration de l’efficacité opérationnelle (diagnostic, proposition de scénarios, mise en œuvre et analyse d’impact)
-Pilotage de projets de transformation en appui des directions métiers (processus, modèle opérationnel…)
-Contribution aux initiatives stratégiques du plan de transformation (investissements, livrables, calendrier, ROI/mesure de l’impact)
- 
- 
-✯ Profil recherché
-De formation spécialisée en Stratégie, Organisation, Contrôle de Gestion, Ecole de Commerce, Ecole d’Ingénieur de niveau Bac +5
-Vous avez une expérience de 5 ans minimum, en particulier dans la conduite de projets dans le secteur de l’assurance
-Maitrise de l'Anglais est indispensable (parlé et écrit)
- 
- 
-Qualités attendues :
-Energie positive, réactivité, adaptation et esprit d’équipe sont des qualités essentielles pour accompagner Wakam dans son hyper-croissance !
-Capacité à projeter une vision stratégique et à la décliner au niveau opérationnel
-Goût du travail en équipe et en mode projet
-Capacité d’analyse et sens du détail
-Esprit de synthèse
-Curiosité et Goût pour approfondir des problématiques opérationnelles avec pragmatisme
-Orienté résultat et « problem solving »
-Empathie, comme moyen de comprendre les problématiques opérationnelles
-Ambition dans la fixation de ses objectifs et le choix de sa feuille de route
- 
- 
-Process de recrutement
-Echange avec Danny, Lead Recruiter
-Echange technique avec Mathieu, Chief of Staff
-Echange avec Alexandre, VP Risk, Transformation & Compliance
-Echange RH avec Laura, Head of Talent
- 
- 
-=> Welcome @Wakam 🙌
- 
+=> Welcome @Wakam
  
  
 Positive energy, agility, and team spirit are essential to support Wakam in its hyper-growth!
@@ -986,9 +1108,9 @@ Every last Friday of the month, it's Free.day at Wakam, a day without meetings t
 Full-remote is a reality at Wakam (there is even one Wakamee who works from his sailing boat ⛵)
 Last but not least : we are nice and we have fun! (you'll find out by yourself 😉)​
         </description>
-        <url>https://boards.eu.greenhouse.io/wakam/jobs/4192832101</url>
-        <location>Paris</location>
-        <country>France</country>
+        <url>https://boards.eu.greenhouse.io/wakam/jobs/4192807101</url>
+        <location>Londres</location>
+        <country>Grande Bretagne</country>
         <remote>1</remote>
         <company>Wakam</company>
         <category>Scientific & QA Jobs</category>
@@ -996,71 +1118,52 @@ Last but not least : we are nice and we have fun! (you'll find out by yourself �
         <contract_time>full_time</contract_time>
     </job>
     <job>
-        <title>Contrôleur Interne SI / SSI (Internal Control IS / ISS) - Remote from EMEA</title>
-        <id>4170935101</id>
+        <title>Delegated Claims Manager - Hybrid or remote from UK</title>
+        <id>4240350101</id>
         <description>
-​✎ Missions
-Au sein de l’office Risk & Internal Control, le Contrôleur SI / SSI (niveau 2) aura pour mission principale de réaliser les contrôles de second niveau afin de s’assurer que le dispositif de contrôle interne de niveau 1 est adapté et efficace sur les périmètres :
- 
-- Système d'Information
- 
-- Sécurité du Système d’Information
- 
-Il est attendu du Contrôleur SI / SSI, au cœur du dispositif de contrôle interne Wakam, qu’il contribue à l'efficacité de ce dernier et que la prise en charge des risques opérationnels soit alignée avec la stratégie Wakam. Par la nature de son activité, le contrôleur SI / SSI contribuera ainsi à la cartographie des risques de Wakam. Son expertise permettra d’apprécier les risques (bruts/résiduels), les dispositifs de maîtrise des risques dont les plan de contrôle interne associés.
- 
-Le Contrôleur SI / SSI aura ainsi pour missions principales :
- 
-- Analyser les processus et les systèmes informatiques afin de détecter les risques potentiels et de proposer des solutions appropriées pour améliorer la prise en charge du risque opérationnel
- 
-- Définir et maintenir le référentiel de contrôle interne sur les périmètres SI, Sécurité du Système d’Information
- 
-- Réaliser les contrôles de second niveau sur les périmètres SI, Sécurité du Système d’Information pour assurer l'efficacité et la conformité du système de contrôle interne (évaluation du dispositif de contrôle interne de niveau 1, recommandations)
- 
-- Suivre les incidents informatiques, analyser leur impact, contribuer à la définition des solutions préventives et suivre la mise en œuvre de ces dernières
- 
-- Contribution à l'élaboration d'un plan de contrôle annuel et assurer un appui à la mise en œuvre des contrôles N1/N2
- 
-- Assurer le suivi, le pilotage et le reporting des campagnes de contrôle
- 
-- Participer à la définition et l’analyse des remontées d’indicateurs de surveillance permanente du système d’information
- 
-- Participer à la préparation des comités afin présenter la synthèse des résultats/travaux sur le périmètre SI/SSI aux instances dirigeantes
- 
-- Participer à l’élaboration et au suivi des plans d’actions résultant d’audits internes/externes ou visant à réduire les risques opérationnels
- 
- 
- 
-✯ Profil recherché
-- Bac+5 en informatique ou équivalent.
- 
-- Une expérience professionnelle d'au moins 5 ans dans la sécurité des Systèmes d’Information et/ou l'audit informatique.
- 
-- Une connaissance des environnements DevOps (Azure)
- 
-- Une expérience professionnelle dans un environnement réglementée (Banque et/ou Assurance)
- 
-- Une connaissance approfondie des normes et réglementations en matière de sécurité de l'information.
- 
-- Une maîtrise des outils de contrôle et de sécurité informatique (antivirus, firewall, IDS, IPS, etc.).
- 
-- Un esprit analytique et une capacité à travailler de manière autonome.
- 
-- Une capacité à communiquer efficacement avec les différentes parties prenantes internes et externes.
- 
-- Un sens de la rigueur et de l'éthique professionnelle.
- 
- 
- 
-Process de recrutement
-To help you get a complete picture of our hiring process and Wakam's work culture, please visit our dedicated page: Interviews at Wakam
- 
-Echange avec Jade, Talent Acquisition
-Echange avec notre Head of Information Security
-Echange avec notre Chief of Risk & Internal Control
-Echange avec Laura, Head of Talent
+Mission:
+
+As a Delegated Claims Manager, your mission is to contribute to the considerable growth of our UK operations by harmonizing claims processes at the group level. This role is dedicated to the UK market, and you'll play a pivotal part in ensuring the future success of our business. Your recruitment will directly impact our business strategy by aligning with transformation goals, particularly in reducing claims leakage.
+
+You will report to the Chief Delegated Authority and collaborate with the external Operations and Audit team based in Paris.
+
+Key Responsibilities:
+
+Your key responsibilities in this role include:
+
+Claims Oversight:
+
+Oversee claims processes, especially those within delegated authority that exceed referral thresholds, as per our Claims Policy and Procedures.
+Manage relationships with TPAs, including selection and agreement drafting in collaboration with the Legal department.
+Serve as a key consultant for claims-related sections in Partnership Agreements and address findings from TPAs' audits, reporting them to the wider organisation.
+Operational Analysis:
+
+Undertake operational performance analysis for partners and TPAs once initial TPA analyses are completed.
+Participate in claims leakage initiatives such as Credit Hire and Repair Network.
+Supervise large loss claims and validate reserves for claims outside Delegated Authority limits.
+Profile required: 
+
+University education.
+Significant UK claims experience.
+Background in insurance, within an insurance company or a large TPA.
+Familiarity with large loss claims handling (motor or third-party background).
+Negotiation skills with suppliers and external parties.
+Proficiency in using data and reports to analyze business outcomes.
+Clear communication skills.
+Ability to work both independently and as a team player.
+Proactive approach to problem-solving.
+Innovative thinking and solutions.
+Rapidly build relationships with stakeholders.
+            
+Recruitment process
+
+Screening interview with Talent recruiter
+Manager interview with UK Chief of Delegated Authority UE & UK
+Cross interview with Head of Underwriting Motor & Mobility 
+Peer interview with Partnership Auditor (optional) 
+HR interview with Head of Talent or VP People & culture
+
 => Welcome @Wakam
- 
- 
  
  
 Positive energy, agility, and team spirit are essential to support Wakam in its hyper-growth!
@@ -1090,12 +1193,12 @@ Every last Friday of the month, it's Free.day at Wakam, a day without meetings t
 Full-remote is a reality at Wakam (there is even one Wakamee who works from his sailing boat ⛵)
 Last but not least : we are nice and we have fun! (you'll find out by yourself 😉)
         </description>
-        <url>https://boards.eu.greenhouse.io/wakam/jobs/4170935101</url>
-        <location>Paris</location>
-        <country>France</country>
+        <url>https://boards.eu.greenhouse.io/wakam/jobs/4240350101</url>
+        <location>Londres</location>
+        <country>Grande Bretagne</country>
         <remote>1</remote>
         <company>Wakam</company>
-        <category>Scientific & QA Jobs</category>
+        <category>Legal Jobs</category>
         <contract_type>permanent</contract_type>
         <contract_time>full_time</contract_time>
     </job>
@@ -1188,8 +1291,8 @@ Last but not least : we are nice and we have fun! (you'll find out by yourself �
         <contract_time>full_time</contract_time>
     </job>
     <job>
-        <title>Profitability Actuary</title>
-        <id>4224687101</id>
+        <title>Solvency Risk Manager - Hybrid or remote from UK</title>
+        <id>4235960101</id>
         <description>
 ​Wakam is a European B2B2C insurer that designs white label general insurance (GI) products for its partners (e-retailers, brokers and fintechs/insurtechs, ...). Our insurance solutions are embedded within the products orservices offered to the end- customer.
 
@@ -1199,47 +1302,42 @@ Since March 2021, we are a Mission-driven company. We defined 9 concrete commitm
 
 Our culture? Free to impact. A culture where everything is possible, where all ideas are taken into consideration, where everyone has an impact! Hungry for freedom? Thirsty for autonomy? If you are curious, then the Wakam adventure might be made for you!
  
+You will be instrumental in shaping the organizational and Risk Management framework from the ground up, starting from the insights provided by the French framework. Your role will address regulatory requirements and the evolving landscape post-Brexit. It's an exciting opportunity to create a Risk Management framework that perfectly suits our UK operations and launch a new UK focused entity.
 
-🌎 Based outside France?
-We're happy to consider your application! the world is our playground, so wherever you're based or want to work, join Wakam to unleash your potential!
+Your Mission
 
-✎ Mission 
-Reporting to the Profitability Team Lead, you will, as a Profitability Actuary, be responsible for managing the profitability and results of partner portfolios.
+As the Solvency Risk Manager UK, your mission is twofold - ensuring operational excellence while being at the forefront of Risk Management framework development. Your key responsibilities will include:
+
+Contributing to the design, implementation, and maintenance of our UK branch's Risk Management framework, including policies, Risk Register, Risk Appetite, and key risk areas.
+Shaping the ORSA process for our UK branch, including suggesting and preparing risk scenarios 
+Supporting & embedding capital modeling, stress and scenario testing
+Ensuring capital calculations are appropriate for the UK entity risk profile
+Contributing to the smooth running of risk management operations within our UK business, ensuring the integration of risk concepts into daily activities.
+Contributing to key decisions, such as strategic planning, capital, and liquidity.
+Continuously developing and enhancing our UK's risk framework to ensure consistency and operational effectiveness.
+Providing risk management information, risk analysis, and risk training to key governance forums within our UK operation.
+Maintaining risk mapping in relation to the control results of our company Group.
+Improving the tracking of operational incidents and Business Continuity Planning (BCP) activities
+Cultivating an effective working relationship with Wakam SA Risk Management function
+Ensure reporting of Risk Management activities to the group
+Your Profile
+
+To excel in this role, you should bring:
+
+Actuarial academic background.
+Significant insurance experience in the UK in a similar Risk Management function.
+Experience in setting regulatory capital requirements including working with the Standard Formula.
+A strong understanding of relevant UK regulatory requirements.
+Experience working with local brokers and MGA's is a plus.
+The ability to work at both strategic and detailed levels, with a hands-on approach to ensure operational excellence.
+
+Screening interview with Talent recruiter
+Manager interview with UK Chief Risk Officer
+Cross interview with Group Chief Risk Officer
+Peer interview with Risk or Capital Management team member (optional) 
+HR interview with Head of Talent or VP People & culture
 
  
-
-Your main missions:
-
-Be the technical referent on the partnership portfolios for which you are responsible;
-Carry out pricing development work on these partner portfolios, in conjunction with the Business Development teams and direct partners;
-Manage the profitability of these portfolios through dashboards and additional analyzes carried out ad-hoc, and alert in the event of deviation by being a force for proposing possible corrective actions;
-Present the results of your analyzes to internal bodies and to partners;
-Contribute to provisioning work in conjunction with the Reserving team on the portfolios for which you are responsible;
-Contribute to Wakam's cross-functional projects alongside other team members.
- 
-
-✯ Profil
-Master's degree in Actuarial Science, Statistics, or Data Science.
-A first experience on non-life solutions including profitability topics, would be ideal 🙏
-You have already used traditional P&C tools: linear models (EMBLEM, AKUR8 or equivalent), open-source programming (Python, R), and you have notably already been exposed to machine learning models and visualization tools (PowerBI, Tableau, etc).
-Fluency in English is essential (spoken and written), fluency in French is a great plus
-Taste for teamwork and project management 
-Good communication and prioritization skills
-Your working mindset :
-Rigor and analytical mind
-Attraction to innovation
-Autonomy, at ease with taking initiative
- 
-
-Recruitment Process
-Interview with Charlotte, Talent Acquisition expert 
-Technical interview with a team member
-A cross team interview
-Interview with Claire, Chief Technical Insurance Officer 
-HR interview Laura, Head of Talent 
-To help you get a complete picture of our hiring process and Wakam's work culture, please visit our dedicated page : Interviews at Wakam.
-
-=> Welcome @Wakam 🙌
 
  
 
@@ -1270,9 +1368,9 @@ Every last Friday of the month, it's Free.day at Wakam, a day without meetings t
 Full-remote is a reality at Wakam (there is even one Wakamee who works from his sailing boat ⛵)
 Last but not least : we are nice and we have fun! (you'll find out by yourself 😉)
         </description>
-        <url>https://boards.eu.greenhouse.io/wakam/jobs/4224687101</url>
-        <location>Paris</location>
-        <country>France</country>
+        <url>https://boards.eu.greenhouse.io/wakam/jobs/4235960101</url>
+        <location>Londres</location>
+        <country>Grande Bretagne</country>
         <remote>1</remote>
         <company>Wakam</company>
         <category>Scientific & QA Jobs</category>
@@ -1280,50 +1378,65 @@ Last but not least : we are nice and we have fun! (you'll find out by yourself �
         <contract_time>full_time</contract_time>
     </job>
     <job>
-        <title>Gestionnaire Sinistres dommages corporels légers</title>
-        <id>4134077101</id>
+        <title>Compliance Officer - Monitoring - Hybrid</title>
+        <id>4239766101</id>
         <description>
-​Wakam est un assureur B2B2C européen qui conçoit des produits d'assurance en marque blanche pour ses partenaires (e-commerçants, courtiers et fintechs/insurtechs...). Nos produits d'assurance sont embarqués dans les produits ou services proposés au client final.
+Wakam is a European B2B2C insurer that designs white label general insurance (GI) products for its partners (e-retailers, brokers and fintechs/insurtechs, ...). Our insurance solutions are embedded within the products orservices offered to the end- customer.
 
-Nous sommes présents dans 32 pays européens et fournissons la plupart de nos produits via des API, et hébergeons des solutions d'assurance en marque blanche via notre plateforme technologique Play&Plug. Depuis mars 2021, nous sommes une entreprise à mission. Nous avons défini 9 engagements concrets pour incarner cette mission, comme la rédaction de nos contrats d'assurance en langage clair. Nous créons également des produits d'assurance à prix coûtant pour les associations.
+Wakam operate in 32 countries across Europe with most of the revenues generated outside of France. Most of our products are delivered through API and hosts white label insurance solutions via our Play&Plug platform.
 
-Notre culture ? Free to impact.
+Since March 2021, we are a Mission-driven company. We defined 9 concrete commitments to illustrate thismission, such as writing our insurance contracts in plain language. We also create insurance products at cost for associations.
 
-Une culture où tout est possible, où toutes les idées sont prises en considération, où chacun a un impact sur la transformation de l'assurance ! Avide de liberté ? Soif d'autonomie ? Si vous êtes audacieux et aimez les défis, alors l'aventure Wakam est peut-être faite pour vous !
+Our culture? Free to impact. A culture where everything is possible, where all ideas are taken into consideration, where everyone has an impact! Hungry for freedom? Thirsty for autonomy? If you are curious, then the Wakam adventure might be made for you!
 
-✎ Description du poste
-Dans un contexte de fort développement, Wakam souhaite renforcer son activité de gestion des sinistres corporels.
-Rattaché(e) à la Squad Claims, vous intervenez de manière autonome dans la gestion de sinistres corporels IRCA et droit commun, « légers » (AIPP entre 0 et 10%).
-
-Activités génériques :
-
-L’enregistrement des déclarations de sinistres, l’instruction des dossiers (étude des garanties, analyse des responsabilités, mise en place de mesures conservatoires…), et la mise en œuvre des moyens nécessaires à l’indemnisation des victimes d’accidents de la route ou à l’exercice du recours le cas échéant,
-L’identification et l’application des règles légales, jurisprudentielles et conventionnelles adéquates,
-L’évaluation et le suivi des coûts techniques,
-La sélection des auxiliaires (médecins, avocats…) et l’analyse des conclusions,
-La finalisation de l’indemnisation de la victime et/ou des tiers payeurs,
-L’exercice des recours corporels dans le respect des intérêts de la compagnie.
-✯ Profil recherché 
-Vos compétences clés :
-
-Formation supérieure en Droit des assurance ou équivalent, vous avez acquis une solide expérience (2 à 3 ans) dans la gestion des sinistres corporels « légers » (AIPP entre 0 et 10%), ainsi que de leurs problématiques spécifiques.
-Vous avez une bonne connaissance de la loi Badinter et de son évolution jurisprudentielle. De même, vous maîtrisez les conventions IRSA, IRCA et PAOS..
-La maîtrise de l’anglais est un plus.
-Votre working mindset :
-
-Doté.e d’un excellent rédactionnel, d’un sens de l’organisation et de la rigueur, vous faites preuve d’autonomie et de responsabilité.
-Vos capacités d’analyse et de synthèse, ainsi que votre implication et vos qualités relationnelles vous permettent de faire face à tous type de situations.
-Vous accordez une importance critique à la qualité de votre suivi sur l'ensemble des dossiers.
  
-Vous souhaitez également vous investir au sein d'une entreprise dynamique et en phase de scale, dans un rôle transverse qui vous offrira la possibilité de compléter votre formation en travaillant en lien direct avec l’ensemble des métiers et processus de Wakam.
-Process de recrutement
-To help you get a complete picture of our hiring process and Wakam's work culture, please visit our dedicated page: Interviews at Wakam
 
-Echange avec Charlotte, Talent Acquisition
-Echange avec Mathias, Claims Team Lead
-Echange avec Nathalie, Head of Claims
-Echange avec Laura, Head of Talent
-=> Welcome @Wakam :alléluia:
+Main Tasks & Responsibilities
+Overall Job Purpose
+
+Responsible for assisting the Head of UK Compliance with delivering an effective, high quality, risk-based risk and compliance assurance plan across Wakam UK. Assessing the adequacy and effectiveness of the measures, controls and procedures put in place by the 1st Line of Defence to address compliance with all relevant regulatory obligations and with the ERM framework through specific thematic reviews.
+
+ 
+
+Accountabilities
+
+Assist in the development of an annual, risk-based Compliance Monitoring plan which focuses on identifying, measuring and managing regulatory and business risks
+Assist with maintenance of a comprehensive Compliance Risk Universe
+Takes responsibility for delivering robust compliance based assurance reviews and oversight activities to provide Senior Management an insight into the efficiency and effectiveness of managing regulatory compliance and commenting on best practice
+Develop high quality, succinct, timely and accurate monitoring and oversight reports
+Collaborate with the business to determine and agree pragmatic and effective remedial and preventative recommendations where vulnerabilities and risks exist, monitor corrective plans and provide guidance, advice and support to deal with and avoid similar situations in the future
+Liaise with key stakeholders in the business to effectively track, manage and report on open, closed and overdue actions through to successful implementation
+Assist the Head of UK Compliance in developing monthly and quarterly management information on all monitoring and oversight activities, risks and issues, which contribute to the Assurance reports for the Board and Executive Management
+Regularly liaise with 1st, other 2nd and 3rd Line functions to disseminate assurance activities and understand business needs
+Develop internal relationships with the wider Compliance Team. This may include office visits to Paris.
+Support the combined assurance approach across the business
+Seeks to enhance monitoring and oversight activities to increase productivity and add value to the business.
+Deputise for the Head of Compliance when required
+Drive and embed a compliance culture at Wakam.
+Regular trips to our headquarters in Paris might be required. 
+
+ 
+
+Your profile
+To succeed at this position, you will need to:
+
+You will have strong insurance experience with a strong cross-functional understanding;
+You must have significant experience working within a compliance function;
+You will have expert technical knowledge;
+You will be pro-active and not afraid to challenge the status quo;
+You will have a professional approach and delivery of work product;
+You must have energy, enthusiasm, persistence and adaptability;
+You will have the ability to influence and lead others;
+You can focus on timely delivery of quality outputs;
+You will have excellent communication and interpersonal skills
+ 
+
+Recruitment process: 
+
+Screening interview with Charlotte, Talent Expert 
+Technical & fit interview with our Head Of Compliance UK
+Leadership fit interview with our Head of Risk Officer UK
+HR culture fit interview with Laura, Head of Talent 
  
 
 Positive energy, agility, and team spirit are essential to support Wakam in its hyper-growth!
@@ -1353,75 +1466,98 @@ Every last Friday of the month, it's Free.day at Wakam, a day without meetings t
 Full-remote is a reality at Wakam (there is even one Wakamee who works from his sailing boat ⛵)
 Last but not least : we are nice and we have fun! (you'll find out by yourself 😉)
         </description>
-        <url>https://boards.eu.greenhouse.io/wakam/jobs/4134077101</url>
-        <location>Paris</location>
-        <country>France</country>
+        <url>https://boards.eu.greenhouse.io/wakam/jobs/4239766101</url>
+        <location>Londres</location>
+        <country>Grande Bretagne</country>
         <remote>1</remote>
         <company>Wakam</company>
-        <category>Admin Jobs</category>
+        <category>Legal Jobs</category>
         <contract_type>permanent</contract_type>
         <contract_time>full_time</contract_time>
     </job>
     <job>
-        <title>Partnerships Auditor/Auditeur.trice Partenariats</title>
-        <id>4175791101</id>
+        <title>Compliance Officer - Advisory - Hybrid</title>
+        <id>4240431101</id>
         <description>
-✎ Mission
-Le modèle de Wakam nous amène à externaliser de nombreux processus clés pour un assureur : souscription, production, gestion des sinistres.
- 
-Nous contrôlons nos partenaires sur ces différents aspects à travers 3 leviers : le contrôle continu opérationnel, l’analyse technique et l’audit. Wakam considère que l’audit est une activité cœur, qui dépasse largement le cadre requis par le régulateur. Nous auditons chaque année l’intégralité de nos partenaires, en nous focalisant non seulement sur les activités standards, mais également en gardant toujours à l’esprit les questions suivantes : « le partenaire offre-t-il la meilleure qualité de service pour nos clients ? Quel risque réel représente-t-il pour nous ? ».
- 
-Afin de répondre à ces questions, Wakam se livre à 3 grandes activités d’audit sur l’ensemble de ses partenaires :
- 
-Une Due Diligence, très en amont de nos discussions avec un prospect, dont l’objectif est de nous assurer qu’il est suffisamment fiable & robuste pour travailler avec Wakam
-Un Préaudit, juste avant la mise en production d’un partenaire, dont l’objectif est de rentrer plus en détails sur ses processus et de contrôler son processus de souscription pour les clients finaux
-Un Audit annuel, dont l’objectif est de contrôler le fonctionnement du partenaire et d’auditer un échantillon de ses dossiers Wakam pour nous assurer que la gestion y est faite selon nos standards les plus élevés, dans le respect des besoins et dans l’intérêt du client final
-Day-to-day:
-Rattaché(-e) à la Responsable d'audit des partenaires, vous aurez notamment des missions suivantes :
- 
-Participation à la planification et organisation des campagnes d’audit
-Participation aux ateliers de préparation des audits et de restitution des résultats avec les équipes de Wakam et ceux des partenaires
-Réalisation des audits : vérification de la conformité, identification des anomalies, identification des pistes d’amélioration et des recommandations & Rédaction des rapports d’audit
-Enregistrement des constats et recommandations post audit dans les outils
-Suivi des plans d’actions et de clôture des recommandations des partenariats
-Participation à la gouvernance de la mission d’audit
-Réalisation des Due Diligences des nouveaux partenaires
-Réalisation des pré-audits et des rapports de pré-audit
-Contribution à l’amélioration de la méthodologie et des outils de due diligence, de pré-audit et d’audit
-✯ Profil
-Vous êtes diplômé d'un BAC+5 avec une spécialité audit, finance ou assurance/Juriste
-Vous justifiez d’une expérience réussie d’au moins 4/5 ans en audit/contrôle interne dans une compagnie d’assurance ou dans un cabinet de conseil ou d’audit
-Vous parlez obligatoirement couramment anglais, une 3e langue européenne maitrisée est un plus
-Votre working mindset:
- 
-Vous êtes dynamique, réactif.ve et vous performez dans des environnements exigeants et cadencés
-Vous êtes reconnu.e pour votre rigueur, votre autonomie ainsi que vos capacités d'analyse, de synthèse et de rédaction
-Vous adaptez rapidement votre effort et gérez parfaitement les priorités
-Vous aimez aussi collaborer en équipe et vous êtes animé.e par l'atteinte des objectifs au sein d'un collectif
-Process de recrutement
-Entretien technique avec Charlotte, Senior Recruiter
-Entretien avec Héloïse, Head of Externalized Operations
-Entretien avec un.e cross team member
-Entretien avec Rome, team lead Partnerships Audit
-Entretien culture fit RH avec avec Amandine,  People Officer ou Laura, Head of Talent
-=> Welcome @Wakam 🙌
- 
- 
- 
+Wakam is a European B2B2C insurer that designs white label general insurance (GI) products for its partners (e-retailers, brokers and fintechs/insurtechs, ...). Our insurance solutions are embedded within the products orservices offered to the end- customer.
+
+Wakam operate in 32 countries across Europe with most of the revenues generated outside of France. Most of our products are delivered through API and hosts white label insurance solutions via our Play&Plug platform.
+
+Since March 2021, we are a Mission-driven company. We defined 9 concrete commitments to illustrate thismission, such as writing our insurance contracts in plain language. We also create insurance products at cost for associations.
+
+Our culture? Free to impact. A culture where everything is possible, where all ideas are taken into consideration, where everyone has an impact! Hungry for freedom? Thirsty for autonomy? If you are curious, then the Wakam adventure might be made for you!
+
+ 
+
+Main Tasks & Responsibilities
+ 
+
+Responsible for assisting the Head of UK Compliance with delivering timely and accurate advice to the business with the opportunity to lead a variety of projects to help deliver the Annual Compliance Plan. 
+
+ 
+
+Key Tasks and Responsibilities
+
+Act as SME on matters related to PRA, FCA and ICO regulations for the Compliance Team focusing on general advisory and second line conduct activity. 
+Contribute to the Team’s horizon scanning process leading on the interpretation and implementation of PRA FCA, and ICO regulations and guidance
+Lead contact with the business to communicate new PRA and FCA rules and requirements
+Be a point of contact for the business to provide compliance support and input in relation to proposed business changes and how these are impacted by FCA and PRA regulatory requirements
+Support compliance projects both within the Team and providing compliance SME input into business projects. 
+Support the Head of UK Compliance on all second line conduct matters
+
+ Support the preparation of the annual Compliance Plan
+ Manage key business relationships
+ Attend key business committees
+ Support the development and maintenance of FCA and PRA regulatory relationships
+Develop internal relationships with the wider Compliance Team. This may include office visits to Paris.
+Support the preparation of Board and committee reporting
+Support the maintenance of compliance policies
+Support the maintenance of compliance registers 
+Design and deliver training
+Support with the embedding of regulatory change and revised compliance policies within the business. 
+Review sanctions referrals and Financial Crime queries from the business, assessing applicable legislation to provide a suitable recommendation;
+Review data privacy queries from the business, assessing applicable legislation to provide a suitable recommendation;
+Promote a compliance culture by raising awareness and appreciation of compliance matters
+Drive improvements in areas of responsibility and propose changes to improve compliance and business efficiency
+Deputise for the Head of Compliance when required
+Drive and embed a compliance culture at Wakam 
+
+Your profile
+You will have strong insurance experience with a strong cross-functional understanding;
+You must have significant experience working within a compliance function;
+You will have expert technical knowledge;
+You will be pro-active and not afraid to challenge the status quo;
+You will have a professional approach and delivery of work product;
+You must have energy, enthusiasm, persistence and adaptability;
+You will have the ability to influence and lead others;
+You can focus on timely delivery of quality outputs;
+You will have excellent communication and interpersonal skills
+ 
+
+Recruitment process: 
+
+Screening interview with Charlotte, Talent Expert 
+Technical & fit interview with Head of Compliance UK
+Leadership fit interview with Head of Risk Officer UK
+HR culture fit interview with Laura, Head of Talent & Aurélien, VP People & Culture
+ 
+
+ 
+
 Positive energy, agility, and team spirit are essential to support Wakam in its hyper-growth!
- 
+
 You have the Wakam mindset? Join us!
- 
- 
- 
+
+ 
+
 More about us
-Our culture? Free to impact. A culture where everything is possible, where all ideas are taken into consideration, where everyone has an impact on the transformation of insurance! Hungry for freedom? Thirsty for autonomy? If you are adventurous and like challenges, then the Wakam adventure might be made for you!
- 
+Our culture? Free to impact. A culture where everything is possible, where all ideas are taken into consideration, where everyone has an impact on the transformation of insurance! Hungry for freedom? Thirsty for autonomy? If you are adventurous and like challenges, then the Wakam adventure might be made for you! 
+
 Discover -on our website- who we really are with the 11 cultural markers that so well describe us!
- 
+
 What we are looking for
 Mindset compatibility with our ‘Free to Impact’ culture:
- 
+
 Think big
 Biased for action
 Curious and eager to learn
@@ -1435,114 +1571,13 @@ Every last Friday of the month, it's Free.day at Wakam, a day without meetings t
 Full-remote is a reality at Wakam (there is even one Wakamee who works from his sailing boat ⛵)
 Last but not least : we are nice and we have fun! (you'll find out by yourself 😉)
         </description>
-        <url>https://boards.eu.greenhouse.io/wakam/jobs/4175791101</url>
-        <location>Paris</location>
-        <country>France</country>
-        <remote>1</remote>
-        <company>Wakam</company>
-        <category>Other/General Jobs</category>
-        <contract_type>permanent</contract_type>
-        <contract_time>full_time</contract_time>
-    </job>
-    <job>
-        <title>Legal Product Manager - 6-month contract starting November 2023</title>
-        <id>4203440101</id>
-        <description>
-​Wakam is a European B2B2C insurer that designs white label general insurance (GI) products for its partners (e-retailers, brokers and fintechs/insurtechs, ...). Our insurance solutions are embedded within the products orservices offered to the end- customer.
- 
-Wakam operate in 32 countries across Europe with most of the revenues generated outside of France. Most of our products are delivered through API and hosts white label insurance solutions via our Play&Plug platform.
- 
-Since March 2021, we are a Mission-driven company. We defined 9 concrete commitments to illustrate thismission, such as writing our insurance contracts in plain language. We also create insurance products at cost for associations.
- 
-As part of a maternity cover, we are looking for a new Legal Product Manager to join our team. This will be a 6-month temporary contract (CDD) from November 2023 to June 2024.
- 
-Main Tasks & Responsibilities
-Insurance must support the transformation of the economy to enable it to grow and survive.
-We want to put the best of technology at the service of people, to support these new needs.
- 
-Wakam is a full digital B2B2C insurer that designs an innovative range of products and services and markets them through traditional (brokers, etc.) and non-traditional distributors (e-retailers, startups, car manufacturers, service platforms, etc.).
- 
-Wakam is present in all sectors of property and casualty insurance in France and Europe.
- 
-Our job is to design ready-to-use insurance solutions, to insure everyone in the right place at the right time.
- 
-The missions
- 
-Reporting to the Product Squad, you will play an active role in creating the product outline and contractual product documentation, particularly for our partners abroad:
- 
-Creation of an insurance product tailored to the needs of our partners and customers.
-Proposals on the terms and conditions of cover (cover, ceiling, excess, exclusions) in conjunction with the Pricing team.
-Formalization of partner product sheets (aligned with DDA).
-Formalization and validation of Product documentation (T&Cs / Policy Schedule / IPID)
-Participating in the company's project to simplify product documents - while complying with regulatory constraints.
-Processing changes to products in production.
-You will work in coordination with the Sales, Legal, Reinsurance & Compliance Departments.
- 
-Profile required
- 
-The characteristics of our Product Manager Legal:
- 
- - 4 to 5 years' higher education, university degree in insurance law or business school
-- First experience in the insurance industry
- 
-- A large proportion of our clients are located outside France. Working knowledge of English is essential.
- 
--Good communication and prioritization skills.
- 
-Desired qualities:
- 
-- Rigorous and analytical
-- Dynamic and with excellent interpersonal skills
-- Autonomous and resourceful, not afraid to take the initiative
- 
- 
- 
-Recruitment process : 
- 
-Screening call with Charlotte, Talent expert
-Technical & manager fit interview our Head of Product
-Cross team interview with a team member
-HR culture fit interview with Laura, Head of Talent
-=> Welcome @Wakam 🙌
- 
- 
- 
- 
- 
-Positive energy, agility, and team spirit are essential to support Wakam in its hyper-growth!
- 
-You have the Wakam mindset? Join us!
- 
- 
- 
-More about us
-Our culture? Free to impact. A culture where everything is possible, where all ideas are taken into consideration, where everyone has an impact on the transformation of insurance! Hungry for freedom? Thirsty for autonomy? If you are adventurous and like challenges, then the Wakam adventure might be made for you!
- 
-Discover -on our website- who we really are with the 11 cultural markers that so well describe us!
- 
-What we are looking for
-Mindset compatibility with our ‘Free to Impact’ culture:
- 
-Think big
-Biased for action
-Curious and eager to learn
-Can say no and find solutions
-Aims for the moon (but please don’t stick on the moon)
-And above all: have fun working together 🤜🤛 !
-Good to know
-Wakam is not based on a hierarchy but on a methodology where everyone finds his role and knows his objectives.
-With a flat hierarchical system and a highly collaborative operating model, Wakam is an extremely agile and transparent company.
-Every last Friday of the month, it's Free.day at Wakam, a day without meetings to take a step aside and dedicate ourselves to skills sponsorship or other activities (because we are curious, I remind you).
-Full-remote is a reality at Wakam (there is even one Wakamee who works from his sailing boat ⛵)
-Last but not least : we are nice and we have fun! (you'll find out by yourself 😉)
-        </description>>
-        <url>https://boards.eu.greenhouse.io/wakam/jobs/4203440101</url>
-        <location>Paris</location>
-        <country>France</country>
+        <url>https://boards.eu.greenhouse.io/wakam/jobs/4240431101</url>
+        <location>Londres</location>
+        <country>Grande Bretagne</country>
         <remote>1</remote>
         <company>Wakam</company>
         <category>Legal Jobs</category>
-        <contract_type>contract</contract_type>
+        <contract_type>permanent</contract_type>
         <contract_time>full_time</contract_time>
     </job>
 </jobs>
